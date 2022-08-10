@@ -15,7 +15,7 @@ pip install lolcat
 
 git clone https://github.com/J-scripting/I-LOVE-YOU-VIRUS.git
 
-cd $HOME
+cd $HOME/I-LOVE-YOU-VIRUS
 
 ls
 
